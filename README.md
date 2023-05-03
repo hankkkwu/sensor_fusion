@@ -8,4 +8,4 @@ Early fusion process will happen in 3 steps:
 3. Fuse the Results
 
 Here is the result video:
-![early fusion](https://github.com/hankkkwu/sensor_fusion/blob/main/result_video/early_fusion/demo.gif)
+![early fusion](https://github.com/hankkkwu/sensor_fusion/blob/main/result_videos/early_fusion/demo.gif)
