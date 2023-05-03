@@ -7,3 +7,5 @@ Early fusion process will happen in 3 steps:
 2. Detect Obstacles in 2D (Camera)
 3. Fuse the Results
 
+Here is the result video:
+[early fusion](https://github.com/hankkkwu/sensor_fusion/blob/main/result_video/early_fusion/demo.gif)
